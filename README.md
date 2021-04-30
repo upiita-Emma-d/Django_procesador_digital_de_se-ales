@@ -1,2 +1,2 @@
-# Procesador_digital_de_se-ales
+# Procesador_digital Interface Python Microprocesador
 Creare la interface de control tipo PID con Django y Python series
